@@ -1,0 +1,12 @@
+   1 samples
+1003 positions
+1003 calls
+   0 heterozygous calls
+1003 homozygous calls
+   0 reference calls
+1003 snp calls
+   0 indel calls
+   0 other variant calls
+   0 missing calls
+   0 calls PASS filter
+   0 calls failing any filter
