@@ -1,0 +1,22 @@
+vcftoolz compare SRR064545.vcf SRR064546.vcf SRR064547.vcf > summary.txt
+
+vcftoolz count SRR064545.vcf  > count_45.txt
+
+vcftoolz count SRR064546.vcf  > count_46.txt
+
+vcftoolz count SRR064547.vcf  > count_47.txt
+
+
+vcftoolz plot SRR064545.vcf gen_refer.fna  plot_45.png
+
+vcftoolz plot SRR064546.vcf gen_refer.fna  plot_46.png
+
+vcftoolz plot SRR064547.vcf gen_refer.fna  plot_47.png
+
+
+vcftoolz narrow SRR064545.vcf > narrow_45.tsv
+
+vcftoolz narrow SRR064546.vcf > narrow_46.tsv
+
+vcftoolz narrow SRR064547.vcf > narrow_47.tsv
+
