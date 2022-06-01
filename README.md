@@ -14,8 +14,6 @@ data - contains all data files from project packed in subfolders describing the 
         
         - ref_data - orginal data used for the project
         
-        - trimmed_data - output files after trimming
-        
         - variant_detection_data - variant detection, visualization files 
         
         - vcf_data - vcf files
